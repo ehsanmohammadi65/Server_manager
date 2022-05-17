@@ -20,3 +20,5 @@ Show server information by nodejs
         npm install
       
       node start server.js
+      
+  and for show output data go to address http://localhost:100/info
