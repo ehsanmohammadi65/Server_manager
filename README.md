@@ -21,4 +21,4 @@ Show server information by nodejs
       
       node start server.js
       
-  and for show output data go to address http://localhost:100/info
+  and for show output data go to the address http://localhost:100/info
