@@ -18,3 +18,5 @@ Show server information by nodejs
       
       
         npm install
+      
+      node start server.js
