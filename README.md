@@ -15,3 +15,7 @@ Show server information by nodejs
   <h4>
     show HostName 
     <h4>
+      
+      <code>
+        npm install
+      </code>
