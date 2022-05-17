@@ -1,5 +1,5 @@
 # Server_manager
-Show server information by nodejs
+View system resources and information by Nodejs
 <br>
 <h3>create nodejs project to show server information by Nodejs</h4>
 <br>
