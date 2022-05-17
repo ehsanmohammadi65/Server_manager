@@ -8,21 +8,18 @@ Show server information by nodejs
     <h4>
   <br>
     
-  <li>
   <h4>
     show os info
     <h4>
-  </li>
+  <br>
     
-  <li>
+  
   <h4>
     show Memory sources
     <h4>
-  </li>
+  <br>
     
-  <li>
   <h4>
     show HostName 
     <h4>
-  </li>
-  <ul>
+  <br>
