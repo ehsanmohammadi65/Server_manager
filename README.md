@@ -6,20 +6,12 @@ Show server information by nodejs
   <h4>
     show cpu sources
     <h4>
-  <br>
-    
   <h4>
     show os info
     <h4>
-  <br>
-    
-  
   <h4>
     show Memory sources
     <h4>
-  <br>
-    
   <h4>
     show HostName 
     <h4>
-  <br>
